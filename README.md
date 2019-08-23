@@ -16,17 +16,7 @@
 <script type="application/ld+json">
 {"@type":"WebSite","headline":"Shadowsocks 帮助导航","url":"https://shadowsocks-help.github.io/","name":"shadowsocks-help.github.io","description":"Shadowsocks 帮助导航","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <link rel="stylesheet" href="/assets/css/style.css?v=68699bbd529fd2be1bacb0d41c280e50599888fb">
-  </head>
-  <body>
-    <section class="page-header">
-      <h1 class="project-name">shadowsocks-help.github.io</h1>
-      <h2 class="project-tagline">Shadowsocks 帮助导航</h2>
-      
-      
+        
     </section>
 
     <section class="main-content">
