@@ -1,6 +1,3 @@
-Shadowsocks for Windows, MacOS, iOS, Android, Linux
-
-<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
