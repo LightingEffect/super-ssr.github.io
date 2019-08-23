@@ -8,7 +8,6 @@
 <meta property="og:title" content="Shadowsocks 帮助导航" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Shadowsocks 帮助导航" />
-<meta property="og:description" content="Shadowsocks 帮助导航" />
 <link rel="canonical" href="https://super-ssr.github.io/" />
 <meta property="og:url" content="https://super-ssr.github.io/" />
 <meta property="og:site_name" content="super-ssr.github.io" />
