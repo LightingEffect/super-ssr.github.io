@@ -1,4 +1,6 @@
-# Shadowsocks终极帮助导航，希望对你有所帮助！
+# Shadowsocks 帮助导航
+
+> Shadowsocks终极帮助导航，希望对你有所帮助！
 
 ## Shadowsocks 简介 ##
 
