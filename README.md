@@ -4,7 +4,7 @@
 
 ## Shadowsocks 简介 ##
 
-| [Shadowsocks 简介](https://shadowsocks-help.github.io/Shadowsocks/whats-shadowsocks.html) | [Shadowsocks 的前世今生](https://shadowsocks-help.github.io/Shadowsocks/Shadowsocks-wiki.html) | [Shadowsocks 节点服务器个人搭建指南](https://shadowsocks-help.github.io/Shadowsocks/Shadowsocks-server.html) | [Shadowsocks 官网 - 不提供SS服务](https://shadowsocks.org/) | [Shadowsocks GitHub 代码地址](https://github.com/shadowsocks) | 
+| [Shadowsocks 简介](https://github.com/Super-SSR/super-ssr.github.io/blob/master/whats-shadowsocks.html) | [Shadowsocks 的前世今生](https://shadowsocks-help.github.io/Shadowsocks/Shadowsocks-wiki.html) | [Shadowsocks 节点服务器个人搭建指南](https://shadowsocks-help.github.io/Shadowsocks/Shadowsocks-server.html) | [Shadowsocks 官网 - 不提供SS服务](https://shadowsocks.org/) | [Shadowsocks GitHub 代码地址](https://github.com/shadowsocks) | 
 
 ## Shadowsocks 使用 ##
 
