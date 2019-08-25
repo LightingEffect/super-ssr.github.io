@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Shadowsocks 终极使用指南 | Shadowsocks</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Shadowsocks 终极使用指南" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Shadowsocks 终极使用指南" />
+<meta property="og:description" content="Shadowsocks 终极使用指南" />
+<link rel="canonical" href="https://shadowsocks-help.github.io/Shadowsocks/" />
+<meta property="og:url" content="https://shadowsocks-help.github.io/Shadowsocks/" />
+<meta property="og:site_name" content="Shadowsocks" />
+<script type="application/ld+json">
+{"@type":"WebSite","headline":"Shadowsocks 终极使用指南","url":"https://shadowsocks-help.github.io/Shadowsocks/","name":"Shadowsocks","description":"Shadowsocks 终极使用指南","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/Shadowsocks/assets/css/style.css?v=2cf16fe17d3da83da113127da6781c65396a43b4">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://shadowsocks-help.github.io/Shadowsocks/">Shadowsocks</a></h1>
+      
+
+      <h1 id="shadowsocks-终极使用指南">Shadowsocks 终极使用指南</h1>
+
+<h2 id="1-shadowsocks-是什么">1 Shadowsocks 是什么？</h2>
+
+<p>[1] <a href="/Shadowsocks/"> Shadowsocks </a>是比VPN更科学的一种网络代理，使您可以访问到世界任何角落的互联网。</p>
+
+<p>[2] A secure socks5 proxy,designed to protect your Internet traffic.</p>
+
+<h2 id="2-shadowsocks-如何使用">2 Shadowsocks 如何使用？</h2>
+
+<p>[1] 使用很简单：首先 1 下载安装好<a href="/Shadowsocks/download.html">客户端</a> → 2 扫码添加<a href="/Shadowsocks/ss.html">SS/SSR节点信息</a>  → 3 设置启用即可</p>
+
+<p>[2] 客户端下载：<a href="https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-windows.zip" target="_blank">微软Windows</a> | 
+<a href="https://shadowsocks-help.github.io/ios/" target="_blank">苹果iPhone/ipad</a> | 
+<a href="https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-android.apk" target="_blank">安卓Android</a> |
+<a href="https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-mac.zip" target="_blank">苹果Mac</a></p>
+
+<p>[3] 如何获取SS/SSR节点信息，详见：<a href="/Shadowsocks/ss.html">SS/ShadowsocksR 服务器节点 点击获取</a></p>
+
+<h2 id="3-shadowsocks-设置使用教程">3 Shadowsocks 设置使用教程</h2>
+
+<p>[1] <a href="/Shadowsocks/windows.html">微软 Windows 使用 Shadowsocks 设置教程</a></p>
+
+<p>[2] <a href="/Shadowsocks/Android.html">安卓 Android 使用 Shadowsocks 设置教程</a></p>
+
+<p>[3] <a href="/Shadowsocks/ios.html">苹果 iOS 使用 Shadowsocks 设置教程</a></p>
+
+<p>[4] <a href="/Shadowsocks/mac.html">苹果 macOS 使用 Shadowsocks 设置教程</a></p>
+
+<p>[5] <a href="/Shadowsocks/linux.html">Linux 使用 Shadowsocks 设置教程</a></p>
+
+<p>[6] <a href="/Shadowsocks/download.html">Shadowsocks 客户端软件备用下载地址</a></p>
+
+<h2 id="4-苹果美区账号免费账号共享">4 苹果美区账号免费账号共享</h2>
+
+<p>[1] <a href="/Shadowsocks/appleid.html">APPLE ID 美区苹果账号  点击获取</a></p>
+
+<p>[2] <a href="/Shadowsocks/apple-id.html">如何注册美区APPLE ID的终极指南</a></p>
+
+<h2 id="5-浏览器设置教程">5 浏览器设置教程</h2>
+
+<p>[1] <a href="/Shadowsocks/Chrome.html">Chrome 设置教程 (Proxy SwitchyOmega)</a></p>
+
+<p>[2] <a href="/Shadowsocks/Firefox.html">Firefox Quantum 设置教程 (Proxy SwitchyOmega)</a></p>
+
+<h2 id="6-其他设置教程">6 其他设置教程</h2>
+
+<p>[1] <a href="/Shadowsocks/proxifier.html">Proxifier 设置教程</a></p>
+
+<p>[2] <a href="/Shadowsocks/DNS.html">设置自定义 DNS 服务器</a></p>
+
+<h2 id="7-申明">7 申明</h2>
+
+<p>以上信息所有使用者需要遵循使用者所在国家以及服务器所在国家的法律法规。</p>
+
+<p>请勿用于非法用途，并对自己的任何行爲进行负责。</p>
+
+<h4 id="返回首页"><a href="https://shadowsocks-help.github.io">« 返回首页</a></h4>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    
+  </body>
+</html>
