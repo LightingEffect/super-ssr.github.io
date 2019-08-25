@@ -12,7 +12,7 @@
 
 ## Shadowsocks 工具 ##
 
-| [Potatso Lite 代理工具在线安装](https://super-ssr.github.io/Potatso-Lite) | [Shadowrocket 小火箭在线安装](https://super-ssr.github.io/ios) | [Shadowsocks 客户端软件备用下载地址](https://super-ssr.github.io/Shadowsocks/download.html) | 
+| [Potatso Lite 代理工具在线安装](https://super-ssr.github.io/Potatso-Lite) | [Shadowrocket 小火箭在线安装](https://super-ssr.github.io/iOS) | [Shadowsocks 客户端软件备用下载地址](https://super-ssr.github.io/Shadowsocks/download.html) | 
 
 ## Shadowsocks 其他 ##
 
